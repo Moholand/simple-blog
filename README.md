@@ -1,6 +1,5 @@
 # simple-blog
-
-this is a simple blog (in persian language) that builts from HTML/CSS/Bootstrap/PHP and MySQL. this blog contains header, footer, sidebar, and slider.<br>
+This is a Simple Blog (in persian language) that builts from HTML/CSS/Bootstrap/PHP and MySQL. this blog contains header, footer, sidebar, and slider.<br>
 it has several post categories that read from database and shows in header and sidebar.<br>
 slider include a post image, post title and a summary of post body with a button to show the post page.<br>
 users can see full post details and leave a comment on them in the post pages.<br>
